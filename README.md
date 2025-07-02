@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me:
 - 📧 **sanjaychandra435@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/SanjayChandra)
+- 🔗 [LinkedIn](https://linkedin.com/in/SamudralaSanjayChandra)
 
 ---
 
