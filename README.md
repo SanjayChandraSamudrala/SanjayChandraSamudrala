@@ -5,7 +5,6 @@
 
 ### 🔭 Currently Working On:
 - 💬 **Discussion Forum Web App** (MERN stack)
-- 🤖 **Vehicle Detection Using Machine Learning**
 - 🌐 Web UI improvements and middleware enhancements
 
 ---
