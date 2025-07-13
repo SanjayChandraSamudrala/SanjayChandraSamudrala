@@ -47,9 +47,6 @@
 ### 🌐 Frontend
 - HTML, CSS, React.js
 
-### 🔙 Backend
-- Node.js, Express.js
-
 ### 🗃️ Databases
 - MongoDB, MySQL
 
